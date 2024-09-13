@@ -20,7 +20,7 @@ const Extension = () => {
   return (
     <div className="">
       <div className="bg-[#3a3053] ">
-        <div className=" h-[280px] ml-3 md:h-[200px] lg:h-[240px]" ref={ref}>
+        <div className=" h-[280px] ml-[14px] md:h-[200px] lg:h-[240px]" ref={ref}>
           <div className="align-element grid justify-items-center pt-[40px] lg:pt-20  gap-4 pt-6 ">
             <div>
               <h3 className="font-bold text-white text-xl lg:text-2xl">
