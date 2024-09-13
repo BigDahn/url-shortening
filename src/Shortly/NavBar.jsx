@@ -26,7 +26,7 @@ const NavBar = () => {
             dispatch(openModal())
           }}
         >
-          <img src="/src/Shortly/images/icon-hamburger.svg" alt="hamburger" />
+          <img src="/images/icon-hamburger.svg" alt="hamburger" />
         </button>
       </div>
       <div className="hidden md:flex">
