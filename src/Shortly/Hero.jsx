@@ -20,7 +20,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="order-first relative right-[10px] w-[100%]  md:order-last md:left-[1%] lg:left-[20%] bottom-4 md:w-[400px] lg:w-[600px]">
-        <img src="/src/Shortly/images/illustration-working.svg" alt="working" />
+        <img src="/images/illustration-working.svg" alt="working" />
       </div>
     </div>
   )

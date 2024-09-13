@@ -47,22 +47,22 @@ const Footer = () => {
         <div>
           <div className="flex ml-2 gap-3 pt-4 md:pt-2 md:gap-5 md:ml-0">
             <img
-              src="/src/Shortly/images/icon-facebook.svg"
+              src="/images/icon-facebook.svg"
               alt="fb"
               className=" cursor-pointer hover:color-[#2ad1d1]"
             />
             <img
-              src="/src/Shortly/images/icon-instagram.svg"
+              src="/images/icon-instagram.svg"
               alt="instagram"
               className=" cursor-pointer hover:color-"
             />
             <img
-              src="/src/Shortly/images/icon-pinterest.svg"
+              src="/images/icon-pinterest.svg"
               alt="pinterest"
               className=" cursor-pointer  hover:text-[#2ad1d1]"
             />
             <img
-              src="/src/Shortly/images/icon-twitter.svg"
+              src="/images/icon-twitter.svg"
               alt="twitter"
               className=" cursor-pointer hover:color-[#2ad1d1]"
             />

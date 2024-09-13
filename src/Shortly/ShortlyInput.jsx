@@ -58,11 +58,11 @@ toast.success('Link Copied')
 
   useEffect(()=>{
     if (width >= 1280) {
-      setImg('/src/Shortly/images/bg-shorten-desktop.svg')
+      setImg('/images/bg-shorten-desktop.svg')
     } else if (width >= 768) {
-      setImg('/src/Shortly/images/bg-shorten-desktop.svg')
+      setImg('/images/bg-shorten-desktop.svg')
     } else {
-      setImg('/src/Shortly/images/bg-shorten-mobile.svg')
+      setImg('/images/bg-shorten-mobile.svg')
     }
   })
  useEffect(() => {

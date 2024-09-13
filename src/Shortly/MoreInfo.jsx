@@ -26,7 +26,7 @@ const MoreInfo = () => {
 
           <div className="absolute bottom-[92%] left-24 md:left-4 rounded-full bg-[#383155] h-14 w-14">
             <img
-              src="/src/Shortly/images/icon-brand-recognition.svg"
+              src="/images/icon-brand-recognition.svg"
               alt="brand"
               className="m-auto pt-3  h-10 "
             />
@@ -49,7 +49,7 @@ const MoreInfo = () => {
           </div>
           <div className="relative bottom-[250px] left-24 md:left-4 lg:bottom-[96%]  rounded-full bg-[#383155] h-14 w-14">
             <img
-              src="/src/Shortly/images/icon-detailed-records.svg"
+              src="/images/icon-detailed-records.svg"
               alt="detailed"
               className="m-auto pt-3  h-10 "
             />
@@ -72,7 +72,7 @@ const MoreInfo = () => {
           </div>
           <div className="relative bottom-[250px] left-24 md:left-4 lg:bottom-[96%] rounded-full bg-[#383155] h-14 w-14">
             <img
-              src="/src/Shortly/images/icon-fully-customizable.svg"
+              src="/images/icon-fully-customizable.svg"
               alt="customized"
               className="m-auto pt-3  h-10 "
             />

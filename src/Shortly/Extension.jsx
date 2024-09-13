@@ -6,11 +6,11 @@ const Extension = () => {
   const [width] = useWindowSize()
   useEffect(()=>{
     if (width >= 1280) {
-      setImg('/src/Shortly/images/bg-boost-desktop.svg')
+      setImg('/images/bg-boost-desktop.svg')
     } else if (width >= 768) {
-      setImg('/src/Shortly/images/bg-boost-desktop.svg')
+      setImg('/images/bg-boost-desktop.svg')
     } else {
-      setImg('/src/Shortly/images/bg-boost-mobile.svg')
+      setImg('/images/bg-boost-mobile.svg')
     }
   },[img])
   useEffect(()=>{

@@ -10,7 +10,7 @@ const NavBar = () => {
     <div className="align-element flex justify-between mt-4">
       <div>
         <div className="flex gap-4">
-          <img src="/src/Shortly/images/logo.svg" alt="logo" />
+          <img src="/images/logo.svg" alt="logo" />
 
           <ul className=" hidden md:flex gap-6 text-sm mt-1 cursor-pointer font-semibold ml-4 text-[#c7c6ca] ">
             <li className="hover:text-black ">Features</li>
